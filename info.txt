@@ -1,0 +1,2 @@
+Publicação de Dashboard de Dados na Web - Visualização de Dados: 
+Publicar dashboards interativos na web, facilitando a visualização e interpretação de dados complexos em tempo real.
